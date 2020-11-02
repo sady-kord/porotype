@@ -1,0 +1,19 @@
+<resources>layout_marginBottom
+
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_head_1_size">14sp</dimen>
+    <dimen name="text_head_2_size">16sp</dimen>
+
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_desc">14sp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+    //toolbar
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_elevation">3dp</dimen>
+    <dimen name="toolbar_title_text_size">18sp</dimen>
+    <dimen name="toolbar_title_text_size_min">14sp</dimen>
+
+</resources>

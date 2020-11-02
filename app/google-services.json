@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "900871346056",
+    "firebase_url": "https://nira-d8229.firebaseio.com",
+    "project_id": "nira-d8229",
+    "storage_bucket": "nira-d8229.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900871346056:android:e27555f1d805346442cc3d",
+        "android_client_info": {
+          "package_name": "com.demo.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900871346056-ojslq5ad7i2qpjm6buu4gq3oqdl2b6nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPN62xz1_Z0Y2gHDAWtdr0gYlWP1PjQj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900871346056-ojslq5ad7i2qpjm6buu4gq3oqdl2b6nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

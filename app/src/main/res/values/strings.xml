@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sample</string>
+
+    <string name="home_title">" Demo App "</string>
+    <string name="book_selected">Last Rank Selected : </string>
+    <string name="publisher">Publisher</string>
+
+</resources>
